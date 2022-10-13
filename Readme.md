@@ -42,4 +42,4 @@
 <!-- -----
 Credits: [Krunal Karena](https://github.com/Krunal-Karena)
 Last Edited on: 14/10/2022 -->
-'⭐️ From [username](https://github.com/Krunal-Karena)'
+⭐️ From [Krunal-Karena](https://github.com/Krunal-Karena)
