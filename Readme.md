@@ -7,7 +7,6 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Krunal-Karena.Krunal-Karena)
 [![Github](https://img.shields.io/github/followers/Krunal-Karena?label=Follow&style=social)](https://github.com/Krunal-Karena)
 
 <div size='20px'> Hi! My name is Krunal. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -40,7 +39,7 @@
   
 <br>
 <br>
------
+<!-- -----
 Credits: [Krunal Karena](https://github.com/Krunal-Karena)
-
-Last Edited on: 14/10/2022
+Last Edited on: 14/10/2022 -->
+'⭐️ From [username](https://github.com/Krunal-Karena)'
