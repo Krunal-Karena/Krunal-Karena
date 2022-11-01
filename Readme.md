@@ -32,7 +32,10 @@
 <a href= https://github.com/Krunal-Karena?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/Krunal-Karena?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 
-
+<h2>Achievements</h2>
+-  Hacktoberfest 2022
+<br><br>
+<a  href="https://holopin.io/@krunal_karena"><img src="https://holopin.me/krunal_karena"></a>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/krunal-karena-70271222b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/Krunal-Karena'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
@@ -41,4 +44,4 @@
 
 -----
 
-⭐️ From [Krunal-Karena](https://github.com/Krunal-Karena)
+Made by [Krunal-Karena](https://github.com/Krunal-Karena)
